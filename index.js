@@ -129,7 +129,7 @@ function sumNumbersArray(array) {
     }
 
 }
-sumNumbersArray(numbers2);
+sumNumbersArray(numbers1);
 console.log("----------------------------------------------------------------");
 //10. Write a function that takes an array of numbers and returns the average of all the elements in the array.
 console.log("Question 10");
